@@ -15,7 +15,8 @@ This project is an intelligent drug information assistant that allows users to s
 
 The system uses machine learning–based semantic search (Sentence Transformers + FAISS) to retrieve the most relevant drug information from a structured dataset.
 
-# ⚠️ Disclaimer: This project is for educational reference only. It is not medical advice. Always verify with official labels and consult a licensed clinician before using any medicine.
+# ⚠️ Disclaimer: 
+This project is for educational reference only. It is not medical advice. Always verify with official labels and consult a licensed clinician before using any medicine.
 # 🚀 Features
 
 ➡️ 🔍 Semantic drug search (handles partial/misspelled queries)
