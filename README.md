@@ -1,5 +1,5 @@
 # Drug-Information-Retrieval-and-Therapy-Suggestion-using-Machine-Learning
-💊 Drug Information Retrieval and Therapy Suggestion using ML
+# 💊 Drug Information Retrieval and Therapy Suggestion using ML
 
 This project is an intelligent drug information assistant that allows users to search for medicines by their name or composition and get detailed information including:
 
@@ -15,8 +15,8 @@ This project is an intelligent drug information assistant that allows users to s
 
 The system uses machine learning–based semantic search (Sentence Transformers + FAISS) to retrieve the most relevant drug information from a structured dataset.
 
-⚠️ Disclaimer: This project is for educational reference only. It is not medical advice. Always verify with official labels and consult a licensed clinician before using any medicine.
-🚀 Features
+# ⚠️ Disclaimer: This project is for educational reference only. It is not medical advice. Always verify with official labels and consult a licensed clinician before using any medicine.
+# 🚀 Features
 
 ➡️ 🔍 Semantic drug search (handles partial/misspelled queries)
 
@@ -30,7 +30,7 @@ The system uses machine learning–based semantic search (Sentence Transformers 
 
 ➡️ 📦 Ready for deployment on Hugging Face Spaces or local run
 
-📂 Dataset
+# 📂 Dataset
 The project uses a Kaggle dataset containing the following fields:
 
 ➡️ Medicine Name
@@ -55,7 +55,7 @@ The project uses a Kaggle dataset containing the following fields:
 ➡️ Sentence Transformers (text embeddings)
 
 ➡️ FAISS (vector search)
-📦 Installation & Setup
+# 📦 Installation & Setup
 1. Clone Repository
 git clone https://github.com/<your-username>/drug-info-assistant.git
 cd drug-info-assistant
@@ -70,7 +70,7 @@ python app.py
 This will launch the Gradio interface at:
 http://127.0.0.1:7860
 
-🌐 Deploy on Hugging Face Spaces
+# 🌐 Deploy on Hugging Face Spaces
 
 1. Create a new Space on Hugging Face
 
@@ -87,7 +87,7 @@ http://127.0.0.1:7860
 4. Your app will be permanently available at:
 
                 https://huggingface.co/spaces/<your-username>/drug-info-assistant
-📊 Example Output
+# 📊 Example Output
 ▼ 💊 Paracetamol (500 mg)
     🏭 Manufacturer: XYZ Pharma
     ⭐ Average Review Score: 4.3 / 5
@@ -96,7 +96,7 @@ http://127.0.0.1:7860
     ⚠️ Side Effects: Nausea, liver toxicity (overdose)
     🔢 Similarity Score: 0.873
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is built only for educational purposes.
 It is NOT a substitute for professional medical advice, diagnosis, or treatment.
