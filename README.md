@@ -1,5 +1,5 @@
-# Drug-Information-Retrieval-and-Therapy-Suggestion-using-Machine-Learning
-# 💊 Drug Information Retrieval and Therapy Suggestion using ML
+# GUIDE: Generative Understanding in Information-driven Drug Exploration.
+
 
 This project is an intelligent drug information assistant that allows users to search for medicines by their name or composition and get detailed information including:
 
